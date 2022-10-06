@@ -1,0 +1,4 @@
+config.puerto.servidor=8090
+config.texto.ambiente=Configurando ambiente de desarrollo
+config.autor.nombre=Benny Ibarria
+config.autor.email=topeteplay89@gmail.com
